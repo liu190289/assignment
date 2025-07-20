@@ -1,0 +1,120 @@
+1. 下面哪个符号用于单行注释？
+A. //
+B. #
+C. /*  */
+D. --
+答案：B
+2. 在 Python 中打印“Hello”应使用哪个函数？
+A. echo()
+B. print()
+C. cout()
+D. System.out.println()
+答案：B
+3. 变量名区分大小写吗？
+A. 不区分
+B. 仅部分区分
+C. 完全区分
+D. 取决于操作系统
+答案：C
+4. 下面哪个是正确的字符串？
+A. 'Hello
+B. "Hello'
+C. """Hello"""
+D. 'Hello"
+答案：C
+5. 如何将字符串 "123" 转成整数 123？
+A. str("123")
+B. int("123")
+C. float("123")
+D. chr("123")
+答案：B
+6. 列表用哪个符号定义？
+A. {}
+B. []
+C. ()
+D. <>
+答案：B
+7. 元组用哪个符号定义？
+A. {}
+B. []
+C. ()
+D. <>
+答案：C
+8. 字典用哪个符号定义？
+A. {}
+B. []
+C. ()
+D. <>
+答案：A
+9. len([1, 2, 3]) 的结果是？
+A. 2
+B. 3
+C. 4
+D. 报错
+答案：B
+10. 如何取得列表最后一个元素？
+A. list[0]
+B. list[-1]
+C. list[last]
+D. list.end()
+答案：B
+11. range(3) 产生的序列是？
+A. 1, 2, 3
+B. 0, 1, 2
+C. 0, 1, 2, 3
+D. 3, 2, 1
+答案：B
+12. for 循环遍历完成后，循环变量的值是？
+A. 保持初始值
+B. 最后一个值
+C. 自动删除
+D. 报错
+答案：B
+13. 下面哪个关键字用来定义函数？
+A. func
+B. def
+C. function
+D. define
+答案：B
+14. 下面哪个语句可以退出当前循环？
+A. stop
+B. break
+C. exit
+D. quit
+答案：B
+15. 如何导入整个 math 模块？
+A. include math
+B. import math
+C. using math
+D. require math
+答案：B
+16. 下面哪个是布尔值？
+A. "True"
+B. True
+C. true
+D. 1.0
+答案：B
+17. 表达式 3 ** 2 的结果是？
+A. 5
+B. 6
+C. 8
+D. 9
+答案：D
+18. 表达式 5 // 2 的结果是？
+A. 2.5
+B. 2
+C. 3
+D. 2.0
+答案：B
+19. 下面哪个不是 Python 的数据类型？
+A. int
+B. float
+C. char
+D. str
+答案：C
+20. 用什么函数可以获取用户键盘输入？
+A. input()
+B. read()
+C. scanf()
+D. cin()
+答案：A

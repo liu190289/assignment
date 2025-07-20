@@ -1,0 +1,12 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="字符串的相加和精度的控制.字符串的格式化和精度控制.如果字符在字符串中只出现一次" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

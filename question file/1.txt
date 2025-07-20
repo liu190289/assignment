@@ -1,0 +1,120 @@
+1. 下面哪个符号用于单行注释？  
+A. //  
+B. #  
+C. /*  */  
+D. --  
+答案：B  
+2. 下面哪个关键字用于定义函数？  
+A. func  
+B. def  
+C. function  
+D. define  
+答案：B  
+3. 在 Python 中，整除运算符是哪一个？  
+A. /  
+B. //  
+C. %  
+D. **  
+答案：B  
+4. 下列哪个数据类型是不可变的？  
+A. list  
+B. dict  
+C. tuple  
+D. set  
+答案：C  
+5. 哪个内置函数可以获取对象的长度？  
+A. size()  
+B. len()  
+C. length()  
+D. count()  
+答案：B  
+6. 如何正确创建一个空集合？  
+A. {}  
+B. []  
+C. set()  
+D. ()  
+答案：C  
+7. 下面哪个关键字用于异常处理？  
+A. catch  
+B. except  
+C. finally  
+D. error  
+答案：B  
+8. Python 中逻辑“与”运算符是？  
+A. &&  
+B. and  
+C. &  
+D. ||  
+答案：B  
+9. 下列哪个方法能把字符串转换为小写？  
+A. to_lower()  
+B. lowercase()  
+C. lower()  
+D. casefold()  
+答案：C  
+10. 下面哪个语句可以正确导入整个 math 模块？  
+A. include math  
+B. import math  
+C. using math  
+D. require math  
+答案：B  
+11. 列表推导式的基本语法符号是？  
+A. []  
+B. {}  
+C. ()  
+D. <>  
+答案：A  
+12. 哪个函数能把字符串转为整数？  
+A. str()  
+B. int()  
+C. float()  
+D. chr()  
+答案：B  
+13. 下面哪个关键字用于循环遍历可迭代对象？  
+A. foreach  
+B. loop  
+C. for  
+D. iterate  
+答案：C  
+14. 切片 `s[1:5]` 包含的起始索引是？  
+A. 1  
+B. 2  
+C. 5  
+D. 6  
+答案：A  
+15. 下列哪个不是 Python 内置的基本数据类型？  
+A. int  
+B. float  
+C. char  
+D. bool  
+答案：C  
+16. 如何表示空值（空对象）？  
+A. null  
+B. None  
+C. nil  
+D. undefined  
+答案：B  
+17. 哪个符号用于格式化字符串字面量（f-string）？  
+A. $  
+B. %  
+C. f""  
+D. @  
+答案：C  
+18. 字典中根据键获取值的方法是？  
+A. get()  
+B. find()  
+C. search()  
+D. value()  
+答案：A  
+19. 下列哪个函数可以输出内容到控制台？  
+A. echo()  
+B. print()  
+C. console.log()  
+D. write()  
+答案：B  
+20. 在 Python 中，如何正确表示一个布尔真值？  
+A. true  
+B. True  
+C. TRUE  
+D. 1  
+答案：B

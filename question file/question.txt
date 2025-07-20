@@ -1,0 +1,402 @@
+[
+  {
+    "question": "1. 下面哪个符号用于单行注释？  ",
+    "options": [
+      "A. //  ",
+      "B. #  ",
+      "C. /*  */  ",
+      "D. --  "
+    ],
+    "answer": "答案:B  "
+  },
+  {
+    "question": "2. 下面哪个关键字用于定义函数？  ",
+    "options": [
+      "A. func  ",
+      "B. def  ",
+      "C. function  ",
+      "D. define  "
+    ],
+    "answer": "答案:B  "
+  },
+  {
+    "question": "3. 在 Python 中，整除运算符是哪一个？  ",
+    "options": [
+      "A. /  ",
+      "B. //  ",
+      "C. %  ",
+      "D. **  "
+    ],
+    "answer": "答案:B  "
+  },
+  {
+    "question": "4. 下列哪个数据类型是不可变的？  ",
+    "options": [
+      "A. list  ",
+      "B. dict  ",
+      "C. tuple  ",
+      "D. set  "
+    ],
+    "answer": "答案:C  "
+  },
+  {
+    "question": "5. 哪个内置函数可以获取对象的长度？  ",
+    "options": [
+      "A. size()  ",
+      "B. len()  ",
+      "C. length()  ",
+      "D. count()  "
+    ],
+    "answer": "答案:B  "
+  },
+  {
+    "question": "6. 如何正确创建一个空集合？  ",
+    "options": [
+      "A. {}  ",
+      "B. []  ",
+      "C. set()  ",
+      "D. ()  "
+    ],
+    "answer": "答案:C  "
+  },
+  {
+    "question": "7. 下面哪个关键字用于异常处理？  ",
+    "options": [
+      "A. catch  ",
+      "B. except  ",
+      "C. finally  ",
+      "D. error  "
+    ],
+    "answer": "答案:B  "
+  },
+  {
+    "question": "8. Python 中逻辑“与”运算符是？  ",
+    "options": [
+      "A. &&  ",
+      "B. and  ",
+      "C. &  ",
+      "D. ||  "
+    ],
+    "answer": "答案:B  "
+  },
+  {
+    "question": "9. 下列哪个方法能把字符串转换为小写？  ",
+    "options": [
+      "A. to_lower()  ",
+      "B. lowercase()  ",
+      "C. lower()  ",
+      "D. casefold()  "
+    ],
+    "answer": "答案:C  "
+  },
+  {
+    "question": "10. 下面哪个语句可以正确导入整个 math 模块？  ",
+    "options": [
+      "A. include math  ",
+      "B. import math  ",
+      "C. using math  ",
+      "D. require math  "
+    ],
+    "answer": "答案:B  "
+  },
+  {
+    "question": "11. 列表推导式的基本语法符号是？  ",
+    "options": [
+      "A. []  ",
+      "B. {}  ",
+      "C. ()  ",
+      "D. <>  "
+    ],
+    "answer": "答案:A  "
+  },
+  {
+    "question": "12. 哪个函数能把字符串转为整数？  ",
+    "options": [
+      "A. str()  ",
+      "B. int()  ",
+      "C. float()  ",
+      "D. chr()  "
+    ],
+    "answer": "答案:B  "
+  },
+  {
+    "question": "13. 下面哪个关键字用于循环遍历可迭代对象？  ",
+    "options": [
+      "A. foreach  ",
+      "B. loop  ",
+      "C. for  ",
+      "D. iterate  "
+    ],
+    "answer": "答案:C  "
+  },
+  {
+    "question": "14. 切片 `s[1:5]` 包含的起始索引是？  ",
+    "options": [
+      "A. 1  ",
+      "B. 2  ",
+      "C. 5  ",
+      "D. 6  "
+    ],
+    "answer": "答案:A  "
+  },
+  {
+    "question": "15. 下列哪个不是 Python 内置的基本数据类型？  ",
+    "options": [
+      "A. int  ",
+      "B. float  ",
+      "C. char  ",
+      "D. bool  "
+    ],
+    "answer": "答案:C  "
+  },
+  {
+    "question": "16. 如何表示空值（空对象）？  ",
+    "options": [
+      "A. null  ",
+      "B. None  ",
+      "C. nil  ",
+      "D. undefined  "
+    ],
+    "answer": "答案:B  "
+  },
+  {
+    "question": "17. 哪个符号用于格式化字符串字面量（f-string）？  ",
+    "options": [
+      "A. $  ",
+      "B. %  ",
+      "C. f\"\"  ",
+      "D. @  "
+    ],
+    "answer": "答案:C  "
+  },
+  {
+    "question": "18. 字典中根据键获取值的方法是？  ",
+    "options": [
+      "A. get()  ",
+      "B. find()  ",
+      "C. search()  ",
+      "D. value()  "
+    ],
+    "answer": "答案:A  "
+  },
+  {
+    "question": "19. 下列哪个函数可以输出内容到控制台？  ",
+    "options": [
+      "A. echo()  ",
+      "B. print()  ",
+      "C. console.log()  ",
+      "D. write()  "
+    ],
+    "answer": "答案:B  "
+  },
+  {
+    "question": "20. 在 Python 中，如何正确表示一个布尔真值？  ",
+    "options": [
+      "A. true  ",
+      "B. True  ",
+      "C. TRUE  ",
+      "D. 1  "
+    ],
+    "answer": "答案:B"
+  },
+  {
+    "question": "21. 下面哪个符号用于单行注释？",
+    "options": [
+      "A. //",
+      "B. #",
+      "C. /*  */",
+      "D. --"
+    ],
+    "answer": "答案:B"
+  },
+  {
+    "question": "22. 在 Python 中打印“Hello”应使用哪个函数？",
+    "options": [
+      "A. echo()",
+      "B. print()",
+      "C. cout()",
+      "D. System.out.println()"
+    ],
+    "answer": "答案:B"
+  },
+  {
+    "question": "23. 变量名区分大小写吗？",
+    "options": [
+      "A. 不区分",
+      "B. 仅部分区分",
+      "C. 完全区分",
+      "D. 取决于操作系统"
+    ],
+    "answer": "答案:C"
+  },
+  {
+    "question": "24. 下面哪个是正确的字符串？",
+    "options": [
+      "A. 'Hello",
+      "B. \"Hello'",
+      "C. \"\"\"Hello\"\"\"",
+      "D. 'Hello\""
+    ],
+    "answer": "答案:C"
+  },
+  {
+    "question": "25. 如何将字符串 \"123\" 转成整数 123？",
+    "options": [
+      "A. str(\"123\")",
+      "B. int(\"123\")",
+      "C. float(\"123\")",
+      "D. chr(\"123\")"
+    ],
+    "answer": "答案:B"
+  },
+  {
+    "question": "26. 列表用哪个符号定义？",
+    "options": [
+      "A. {}",
+      "B. []",
+      "C. ()",
+      "D. <>"
+    ],
+    "answer": "答案:B"
+  },
+  {
+    "question": "27. 元组用哪个符号定义？",
+    "options": [
+      "A. {}",
+      "B. []",
+      "C. ()",
+      "D. <>"
+    ],
+    "answer": "答案:C"
+  },
+  {
+    "question": "28. 字典用哪个符号定义？",
+    "options": [
+      "A. {}",
+      "B. []",
+      "C. ()",
+      "D. <>"
+    ],
+    "answer": "答案:A"
+  },
+  {
+    "question": "29. len([1, 2, 3]) 的结果是？",
+    "options": [
+      "A. 2",
+      "B. 3",
+      "C. 4",
+      "D. 报错"
+    ],
+    "answer": "答案:B"
+  },
+  {
+    "question": "30. 如何取得列表最后一个元素？",
+    "options": [
+      "A. list[0]",
+      "B. list[-1]",
+      "C. list[last]",
+      "D. list.end()"
+    ],
+    "answer": "答案:B"
+  },
+  {
+    "question": "31. range(3) 产生的序列是？",
+    "options": [
+      "A. 1, 2, 3",
+      "B. 0, 1, 2",
+      "C. 0, 1, 2, 3",
+      "D. 3, 2, 1"
+    ],
+    "answer": "答案:B"
+  },
+  {
+    "question": "32. for 循环遍历完成后，循环变量的值是？",
+    "options": [
+      "A. 保持初始值",
+      "B. 最后一个值",
+      "C. 自动删除",
+      "D. 报错"
+    ],
+    "answer": "答案:B"
+  },
+  {
+    "question": "33. 下面哪个关键字用来定义函数？",
+    "options": [
+      "A. func",
+      "B. def",
+      "C. function",
+      "D. define"
+    ],
+    "answer": "答案:B"
+  },
+  {
+    "question": "34. 下面哪个语句可以退出当前循环？",
+    "options": [
+      "A. stop",
+      "B. break",
+      "C. exit",
+      "D. quit"
+    ],
+    "answer": "答案:B"
+  },
+  {
+    "question": "35. 如何导入整个 math 模块？",
+    "options": [
+      "A. include math",
+      "B. import math",
+      "C. using math",
+      "D. require math"
+    ],
+    "answer": "答案:B"
+  },
+  {
+    "question": "36. 下面哪个是布尔值？",
+    "options": [
+      "A. \"True\"",
+      "B. True",
+      "C. true",
+      "D. 1.0"
+    ],
+    "answer": "答案:B"
+  },
+  {
+    "question": "37. 表达式 3 ** 2 的结果是？",
+    "options": [
+      "A. 5",
+      "B. 6",
+      "C. 8",
+      "D. 9"
+    ],
+    "answer": "答案:D"
+  },
+  {
+    "question": "38. 表达式 5 // 2 的结果是？",
+    "options": [
+      "A. 2.5",
+      "B. 2",
+      "C. 3",
+      "D. 2.0"
+    ],
+    "answer": "答案:B"
+  },
+  {
+    "question": "39. 下面哪个不是 Python 的数据类型？",
+    "options": [
+      "A. int",
+      "B. float",
+      "C. char",
+      "D. str"
+    ],
+    "answer": "答案:C"
+  },
+  {
+    "question": "40. 用什么函数可以获取用户键盘输入？",
+    "options": [
+      "A. input()",
+      "B. read()",
+      "C. scanf()",
+      "D. cin()"
+    ],
+    "answer": "答案:A"
+  }
+]
