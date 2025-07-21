@@ -88,6 +88,7 @@ def test_main():
         test_data.append({
             'test_name': test_name,
             'question':question,
+            'options':options,
             'answer':answer,
             'test_answer':user_answer,
         })
@@ -129,5 +130,4 @@ def view_leaderboard():
             print(leaderboard)
             leaderboard_num+=1
 if __name__ == '__main__':
-   save_result() 
-   view_leaderboard()
+    file_clear()
