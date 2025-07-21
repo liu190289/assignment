@@ -47,7 +47,7 @@ def create_line_chart():
     line.add_xaxis(data_x_l)
     line.add_yaxis('score',data_y_l)
     line.set_global_opts(
-        title_opts=TitleOpts(title="GDP展示", pos_left='center', pos_bottom='1%'),
+        title_opts=TitleOpts(title="leaderboard", pos_left='center', pos_bottom='1%'),
         legend_opts=LegendOpts(is_show=True),
         toolbox_opts=ToolboxOpts(is_show=True),
         visualmap_opts=VisualMapOpts(is_show=True)
